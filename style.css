@@ -1,0 +1,8 @@
+/* CSS Document */
+body{padding:0px; margin:0px; background:url(images/mainbg.gif) 0 0 repeat-x #fff; color:#5E5E5E; font:13px/18px Arial, Helvetica, sans-serif;}
+div, p, ul, h2, h3, img{padding:0px; margin:0px;}
+ul{list-style-type:none;}
+
+.win_ {}
+.win_ th {background-color:LightSteelBlue; border: 1px solid gray;}
+.win_ td {border: 1px solid gray;}
